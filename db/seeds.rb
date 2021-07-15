@@ -12,3 +12,5 @@ Character.create([
 	{ name: "Morpheus", description: "In the first feature film, The Matrix, Morpheus successfully finds and monitors a man named Thomas A. Anderson, a hacker who calls himself Neo. Despite a close call with Agents that capture, interrogate, and place a surveillance device on Neo, Morpheus and his crew locate him." },
 	{ name: "Agent Smith", description: "Smith began as an Agent, an AI program in the Matrix programmed to keep order within the system by terminating human simulacra which would bring instability to the simulated reality, as well as any rogue programs that no longer serve a purpose to the Machine collective. " },
 ])
+
+Vehicle.create({name: "Nebuchadnezzar", style: "Spaceship"})
